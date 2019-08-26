@@ -6,6 +6,6 @@ public class Basedao {
 			System.out.println("ss");
 			System.out.println("小明");
 
-			System.out.println("小李");
+			//System.out.println("小李");
 		}
 }
